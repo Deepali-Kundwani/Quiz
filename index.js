@@ -13,7 +13,7 @@ var maxScores =
 var questions = [
   {
   question: "Where do I live? ",
-  answer: "Bangalore"
+  answer: "Jaipur"
 }, {
   question: "What is my name?",
   answer: "Deepali"
