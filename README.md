@@ -1,4 +1,4 @@
 # Quiz
 Basic Quiz:-
-Containing QNAs related to myself.
-Displaying highest score.
+Containing QNAs to check whether you know me?
+Displaying highest score at the end.
