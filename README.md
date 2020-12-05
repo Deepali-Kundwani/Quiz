@@ -1,4 +1,3 @@
-# Quiz
-Basic Quiz:-
-Containing QNAs to check whether you know me?
+
+A quiz containing questions to check how better you know me?
 Displaying highest score at the end.
